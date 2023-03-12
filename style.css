@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 237, 215);
+}
+hr{
+    background-color:orange;
+    border-style: dotted none;
+    height: 4px;
+}
+h1{
+    color:#66BFBF ;
+    text-decoration-line: underline;
+    text-decoration-style:wavy;
+}
+h3{
+    color: #66BFBF;
+}
+.a {
+    vertical-align: text-bottom;
+    background-color: red;
+  }
+.b{
+    background-color: red;
+}
+img.c{
+    border-bottom-left-radius: 100%;
+}
+#heading1{color:rgb(250, 7, 7);}
+h1:hover{
+    background-color: yellow;
+}
+
+
+p.a{
+    text-shadow: 2px 2px 5px goldenrod;
+    word-spacing: 10px;
+    text-transform: uppercase;
+}
